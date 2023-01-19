@@ -2,6 +2,8 @@ Analysis code and results for the study
 
 # Paediatric traumatic brain injury as a risk factor for psychosis and psychotic symptoms: a systematic review and meta-analysis
 
+Code developed by Chi-King Yau and Vaughan Bell
+
 <p align="center">
 	<a href="https://en.wikipedia.org/wiki/R_(programming_language)"><img
 		alt="R Programming Language"
@@ -20,8 +22,8 @@ This archive contains the R code for the analysis reported in the above study. T
 
 This repository contains a dataset with the extracted meta-analytic data and a Jupyter notebook that reports the analysis and results
 
-1.  [Yau_et_al_pTBI_psychosis_data.csv](https://github.com/vaughanbell/pTBI_psychosis_meta-analysis/etc) - datafile that contains extracted data
-2.  [Bell_et_al_StrokePsychosis_Imputation.ipynb](https://github.com/vaughanbell/pTBI_psychosis_meta-analysis/etc) - Jupyter notebook that contains the reproducible analysis
+1.  [Yau_et_al_pTBI_psychosis_data.csv](https://github.com/vaughanbell/pTBI_psychosis_meta-analysis/blob/main/Yau_et_al_pTBI_psychosis_data.csv) - datafile that contains extracted data
+2.  [Yau_et_al_pTBI_psychosis_meta.ipynb](https://github.com/vaughanbell/pTBI_psychosis_meta-analysis/blob/main/Yau_et_al_pTBI_psychosis_meta.ipynb) - Jupyter notebook that contains the reproducible analysis
 
 ### Platform and package versions
 
