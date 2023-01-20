@@ -14,16 +14,17 @@ Analysis code and results for the study
 		src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>
 
-### Code developed by
-King-Chi Yau and Vaughan Bell
-
 ### Publication status
 Currently awaiting [pre-print](https://www.medrxiv.org/)
+
+### Analysis code developed by
+King-Chi Yau and Vaughan Bell
 
 ### Preregistration
 This systematic review and meta-analysis was preregistered on PROSPERO with the registration number CRD42022360772. The pre-registration can be accessed [here](https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=360772) and a copy is available in this archive.
 
-This archive contains the R code for the analysis reported in the above study. The code is presented as [Jupyter notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) which are documents that combine both code and the output in a form that can be viewed online, but also re-run and the results reproduced when accompanied by the original datasets.
+### Archive contents
+This archive contains the R code for the analysis reported in the above study. The code is presented as a [Jupyter notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) which are documents that combine both code and the output in a form that can be viewed online, but also re-run and the results reproduced when accompanied by the original dataset.
 
 This repository contains a dataset with the extracted meta-analytic data and a Jupyter notebook that reports the analysis and results
 
