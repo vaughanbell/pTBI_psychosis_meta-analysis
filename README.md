@@ -15,7 +15,7 @@ Analysis code and results for the study
 </p>
 
 ### Publication status
-Currently awaiting [pre-print](https://www.medrxiv.org/)
+Currently available as a [pre-print](https://doi.org/10.1101/2023.02.17.23286118)
 
 ### Analysis code developed by
 King-Chi Yau and Vaughan Bell
