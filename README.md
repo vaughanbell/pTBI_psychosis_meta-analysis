@@ -15,7 +15,9 @@ Analysis code and results for the study
 </p>
 
 ### Publication status
-Currently available as a [pre-print](https://doi.org/10.1101/2023.02.17.23286118)
+Published as:\
+\
+Yau, K.-C., Revill, G., Blackman, G., Shaikh, M., Bell, V. (2023). Paediatric traumatic brain injury as a risk factor for psychosis and psychotic symptoms: a systematic review and meta-analysis. *Psychological Medicine*, [doi: 10.1017/S0033291723002878](https://doi.org/10.1101/2023.02.17.23286118)
 
 ### Analysis code developed by
 King-Chi Yau and Vaughan Bell
